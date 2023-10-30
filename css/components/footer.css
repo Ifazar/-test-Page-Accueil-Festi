@@ -1,0 +1,13 @@
+.contenue {
+  background-color: #732673;
+  padding: 80px 0;
+  text-align: center;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.fa-brands {
+  font-size: 50px;
+  letter-spacing: 30px;
+  color:  #66cc99;
+}

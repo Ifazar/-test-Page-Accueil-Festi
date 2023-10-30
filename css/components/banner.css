@@ -1,0 +1,34 @@
+.banner {
+  background-position: center;
+  /* background-image: cover; */
+  background-size: cover;
+  padding: 120px 0;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.banner-container {
+  color: white;
+  /* background-color: red; */
+  padding: 50px 100px;
+}
+
+.btn-flat {
+  background-color: white;
+  border: black;
+  border-radius: 25px;
+  padding: 8px 24px;
+  transition: background 0.3s ease;
+  color: black;
+  font-family: 'VT323', monospace;
+}
+
+.btn-flat:hover {
+  background: #4D04C4;
+  color: white;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Rubik Mono One', monospace;
+}
